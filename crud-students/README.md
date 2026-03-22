@@ -1,0 +1,4 @@
+## Descripción
+Este ejercicio implementa un sistema completo de gestión de alumnos utilizando `PHP` y `MySQL`. Incluye operaciones de alta, baja, modificación, consulta y listado, además de un archivo de conexión. Cada operación se realiza mediante formularios `HTML` y consultas SQL usando `mysqli`. Es un ejemplo básico pero práctico de cómo integrar `PHP` con una base de datos real para construir un `CRUD` funcional.
+## Description
+This exercise implements a complete student management system using `PHP` and `MySQL`. It includes create, delete, update, search, and list operations, along with a modular database connection file. Each operation is handled through `HTML` forms and SQL queries using `mysqli`. This project demonstrates how to integrate `PHP` with a real database to build a fully functional `CRUD` application.
